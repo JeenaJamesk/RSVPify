@@ -182,7 +182,7 @@ const BirthdayInvitation: FC = () => {
               className="text-lg font-bold text-green-800 mb-1"
               style={{ fontFamily: "'Fredoka One', cursive" }}
             >
-              Join Us For a
+              Join Us For 
             </p>
 
             <div className="text-center mb-1">
